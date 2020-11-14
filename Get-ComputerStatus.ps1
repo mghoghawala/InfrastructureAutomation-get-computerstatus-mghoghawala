@@ -1,6 +1,6 @@
 #Your Name - Marcela Ghoghawala
 #Class Period - Fall 2020 Infrastructure Automation Online
-#Description of Project - Weekly Assignment - Build a Script 
+#Description of Project - Project1
 
 #For each command you have the following 3 lines:
 #1 is a comment line in your script that provides information about what your script is doing.  Example: "1. Outputing information about installed hotfixes"
